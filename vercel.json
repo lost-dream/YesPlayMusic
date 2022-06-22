@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://vercel.com/lost-dream/netease-cloud-music-api/:match*"
+    }
+  ]
+}
